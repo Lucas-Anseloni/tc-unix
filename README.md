@@ -1,2 +1,1 @@
-# tc-unix
-shell
+arquivo obrigatório !
